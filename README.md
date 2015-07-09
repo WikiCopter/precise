@@ -2,7 +2,7 @@
 Precise is here! Precise is a standardized way of organizing everything and anything you want.
 
 At this early stage, any and all feedback would be greatly appreciated. Hop on over to our [issues](https://github.com/WikiCopter/precise/issues) page to submit your ideas and/or bug reports.
-
+##Licensing
 Precise is free, as in freedom. It is licensed under the [MIT license](LICENSE), widely regarded as one of the most permissive of the free software licenses. Feel free to share, modify, and even sell Precise or your version of it without any restrictions whatsoever.
 ##Changelog
 Check out our changelog [here](changelog.md). Precise uses [Semantic Versioning](http://semver.org/) 2.0.
