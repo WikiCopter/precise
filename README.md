@@ -3,7 +3,7 @@ Precise is here! Precise is a standardized way of organizing everything and anyt
 
 At this early stage, any and all feedback would be greatly appreciated. Hop on over to our [issues](https://github.com/WikiCopter/precise/issues) page to submit your ideas and/or bug reports.
 
-Precise is made in both .docx and .odt formats. Feel free to use the one that best suits your needs.
+Precise templates are made in both .docx and .odt formats. Feel free to use the one that best suits your needs.
 ##Stuff you need to know
 ###Licensing
 Precise is free, as in freedom. It is licensed under the [MIT license](LICENSE), widely regarded as one of the most permissive free software licenses. Feel free to share, modify, and even sell Precise or your version of it without any restrictions whatsoever.
